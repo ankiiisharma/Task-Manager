@@ -10,6 +10,21 @@ body {
 
     
     }
+
+    .heading{
+        color: #363646;
+        font-family: poppins;
+        font-weight: 600;
+        cursor: pointer;
+
+    }
+
+    .heading:hover{
+        outline-color: #29de50;
+    }
+    .add-task{
+        cursor: pointer;
+    }
  
     /* @keyframes gradient {
         0% {
