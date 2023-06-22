@@ -1,9 +1,9 @@
 *{
 font-family: 'Montserrat', sans-serif;
-color: #363646;
+color: #ffffff;
 }
 body {
-    background: linear-gradient(-45deg, #ee7752, #29de50, rgb(228, 111, 27), #ffc107);
+    background: linear-gradient(-45deg, #a5d0de, #5f9fd4, rgb(67, 137, 222), #7b95d7);
 	background-size: 400% 400%;
 	animation: gradient 15s ease infinite;
 	height: 100vh;
@@ -12,7 +12,7 @@ body {
     }
 
     .heading{
-        color: #363646;
+        color: #f7f7ff;
         font-family: poppins;
         font-weight: 600;
         cursor: pointer;
@@ -24,6 +24,11 @@ body {
     }
     .add-task{
         cursor: pointer;
+        color: black;
+    }
+
+    .clear-task{
+        color: black;
     }
  
     /* @keyframes gradient {
