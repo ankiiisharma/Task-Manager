@@ -11,9 +11,13 @@ body {
     
     }
 
+    .container{
+        display: flex;
+    }
+
     .heading{
         color: #f7f7ff;
-        font-family: poppins;
+        font-family: Montserrat;
         font-weight: 600;
         cursor: pointer;
 
@@ -24,7 +28,7 @@ body {
     }
     .add-task{
         cursor: pointer;
-        color: black;
+        color: rgb(70, 70, 70);
     }
 
     .clear-task{
