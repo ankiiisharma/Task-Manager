@@ -11,40 +11,4 @@ body {
     
     }
 
-    .container{
-        display: flex;
-        align-items: center;
-    }
-
-    .heading{
-        color: #f7f7ff;
-        font-family: Montserrat;
-        font-weight: 600;
-        cursor: pointer;
-
-    }
-
-    .heading:hover{
-        outline-color: #29de50;
-    }
-    .add-task{
-        cursor: pointer;
-        color: rgb(70, 70, 70);
-    }
-
-    .clear-task{
-        color: black;
-    }
- 
-    /* @keyframes gradient {
-        0% {
-            background-position: 0% 50%;
-        }
-        50% {
-            background-position: 100% 50%;
-        }
-        100% {
-            background-position: 0% 50%;
-        }
-    } */
-    
+   
